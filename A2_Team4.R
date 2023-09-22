@@ -1,5 +1,3 @@
-#A2 assignment - Team 4
-#Forecasting and Predicting the Future Data - DAT- 3531 - NYC1
 #June 11st 2023
 
 # Importing all required libraries 
